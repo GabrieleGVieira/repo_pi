@@ -118,7 +118,7 @@ O cliente solicitou que o site deverá possuir os seguintes requisitos:
 - [x] Introdução
 - [x] Descrição do site
 - [x] Objetivo
-- [x] Exemplos dos dados utilizados
+- [x] Exemplos dos dados a ser utilizados
 - [ ] Informações e descrição da base de dados
 - [ ] Explicação sobre as análises geradas
 - [ ] Explicação sobre as ferramentas de dados utilizadas
