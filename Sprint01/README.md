@@ -41,6 +41,7 @@ Segundo os requisitos levantados pelo cliente, foi definido os seguintes filtros
 * Prefeitos Eleitos - Eleições Municipais 2020
 * Vereadores Eleitos - Eleições Municipais 2020
 * Evolução do Eleitorado
+* Renda Média - IBGE
 
 - [x] Introdução da documentação
  
